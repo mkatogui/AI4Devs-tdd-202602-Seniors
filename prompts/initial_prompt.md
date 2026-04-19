@@ -1,7 +1,3 @@
-Here's a prompt you can use with Copilot / Cursor (or any AI-powered IDE) to complete the exercise **"Creación de tests unitarios para LTI"**. It's structured so the assistant has enough context, constraints, and acceptance criteria to produce a solid, review-ready test suite.
-
----
-
 # Prompt: Unit tests for the "Insert Candidate" feature (LTI ATS)
 
 ## Role and context
